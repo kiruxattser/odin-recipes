@@ -1,2 +1,2 @@
 # odin-recipes
-koroche ya hochu sdelat site s receptami blud ili ne blud nu koroche nado sdelat chtob proverit naskolko horosho ya znaiu html i git nu vprincipe html ya vrode norm ponyal no git ne och poetomu budu zakreplyat na praktike
+First practical project for "The Odin Project" curriculum, "Recipes". I created a webpage with recipes for my favorite Slavic fried goods. I also solidified my HTML knowledge through practice and learned how to use commits on Git and GitHub. It was a very interesting and energizing experience.
